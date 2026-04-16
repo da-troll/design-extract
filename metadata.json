@@ -1,0 +1,24 @@
+{
+  "inspired_by": "Manavarya09/design-extract",
+  "project_name": "Design Extract",
+  "description": "Reverse-engineer any website's complete design system — colors, typography, spacing, radii, shadows, and CSS custom properties. Paste a URL, get structured, copyable design tokens.",
+  "tech_stack": ["React", "TypeScript", "Tailwind CSS", "FastAPI", "Playwright"],
+  "build_date": "2026-04-16",
+  "build_time_hours": 2,
+  "status": "complete",
+  "features": [
+    "Headless browser extraction (Playwright Chromium)",
+    "Color palette with usage context (background/text/border)",
+    "Typography scale with live specimens",
+    "Spacing system visualization",
+    "Border radius preview",
+    "Shadow definitions",
+    "CSS custom properties table",
+    "Page screenshot capture",
+    "JSON export",
+    "Click-to-copy values",
+    "Quick-fill site suggestions"
+  ],
+  "live_url": "https://mvp.trollefsen.com/2026-04-16-design-extract/",
+  "github_url": ""
+}

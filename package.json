@@ -1,0 +1,9 @@
+{
+  "name": "design-extract",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "python3.13 server.py",
+    "build": "cd frontend && npm run build && cd .. && rm -rf out && mv frontend/dist out"
+  }
+}
